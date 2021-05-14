@@ -17,9 +17,10 @@
 &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
 <a href="https://libgdx.com/" target="_blank"> <img src="https://camo.githubusercontent.com/7f125cffbb1915422fdba732af1aa34e2d3edd7e78d94ef8fe95dd1d93e65c33/68747470733a2f2f6c69626764782e636f6d2f6173736574732f696d616765732f6c6f676f2e706e67" alt="java" height="30"/> </a>
 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/> </a>
-&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  height="40"/> </a>
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="c" height="40"/> </a>
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c" height="40"/> </a>
 
