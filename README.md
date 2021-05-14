@@ -23,7 +23,7 @@
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c" height="40"/> </a>
 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="c" height="40"/> </a>
+<a href="https://www.haskell.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="c" height="40"/> </a>
 
 ### Stats:
 ![dk949](https://github-readme-stats.vercel.app/api?username=dk949&show_icons=true&count_private=true&include_all_commits=true)
