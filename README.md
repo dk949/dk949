@@ -8,7 +8,7 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2880px-Pandas_logo.svg.png" e height="40"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" e height="40"/></a>
 
-<a href="https://https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
 <a href="https://cmake.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" e height="40"/></a>
 <a href="https://conan.io/" target="_blank"><img src="https://conan.io/img/logo-conan.svg" e height="40"/></a>
@@ -16,7 +16,7 @@
 
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="40"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
-<a href="https://girhub.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" e height="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" e height="40"/></a>
 <a href="https://github.com/actions" target="_blank"><img src="https://avatars0.githubusercontent.com/u/44036562?s=100&v=4" e height="40"/></a>
 
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40"/></a>
@@ -54,3 +54,6 @@
 ![dk949](https://github-readme-stats.vercel.app/api?username=dk949&show_icons=true&count_private=true&include_all_commits=true)
 &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
 ![dk949](https://github-readme-stats.vercel.app/api/top-langs/?username=dk949&layout=compact&hide=Makefile,Cmake,Objective-C,Roff)
+
+--------
+[How is this README generated?](how_is_this_readme_generated.md)
