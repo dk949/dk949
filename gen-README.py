@@ -1,13 +1,10 @@
-def processPicture(lines: list):
-    return f"<a {lines[0]} target=\"_blank\"><img {lines[1]} {lines[2]} {lines[3]}/></a>\n"
-
 def processBlock(block: list):
     out = ""
-    out += processPicture(block[0])
+    out += f"<a {block[0][0]} target=\"_blank\"><img {block[0][1]} {block[0][2]} {block[0][3]}/></a>\n"
     if(len(block) > 1):
         out += "&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;\n"
         for fw in block[1]:
-            out += processPicture(fw)
+            out += f"<a {fw[0]} target=\"_blank\"><img {fw[1]} {fw[0][2]} {fw[3]}/></a>\n"
     out +='\n'
     return out
 
