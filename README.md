@@ -1,4 +1,4 @@
-## I'm David, 2<sup>nd</sup> year Computer Science student from the UK
+## I'm David, 3<sup>rd</sup> year Computer Science student from the UK
 ### Languages, Frameworks and technologies:
 
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/></a>
