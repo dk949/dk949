@@ -1,4 +1,4 @@
-## I'm David, 3<sup>rd</sup> year Computer Science student from the UK
+## I'm David, 1<sup>st</sup> year High Performance Computing master's student from the UK
 ### Languages, Frameworks and technologies:
 
 

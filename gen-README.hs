@@ -1,4 +1,4 @@
-module Generator where
+module Main where
 
 compileA :: String -> String -> String
 compileA href cont = "<a " ++ href ++ " target=\"_blank\">" ++ cont ++ "</a>"
