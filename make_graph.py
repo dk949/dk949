@@ -35,7 +35,7 @@ with open("list.json") as f:
 with open("opts.json") as f:
     opts = f.read()
 
-net = Network(height="800px", width="800px", bgcolor='#494f55')
+net = Network(height="800px", width="800px", bgcolor='#32363c')
 net.set_options(opts)
 
 base_size = 25
