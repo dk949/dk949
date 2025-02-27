@@ -1,4 +1,4 @@
-## I'm David, 1<sup>st</sup> year PhD student from the UK
+## I'm David, 2<sup>nd</sup> year PhD student from the UK
 
 ### Languages, Frameworks and technologies:
 
